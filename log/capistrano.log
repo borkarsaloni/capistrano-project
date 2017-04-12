@@ -1,0 +1,633 @@
+# Logfile created on 2017-04-10 20:03:02 -0700 by logger.rb/56815
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-10 20:03:02 -0700 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [67502cad] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [67502cad] Command: /usr/bin/env mkdir -p /tmp
+  INFO [5792a01b] Running /usr/bin/env mkdir -p /tmp as root@z9999.site.tsvx.net
+ DEBUG [5792a01b] Command: /usr/bin/env mkdir -p /tmp
+  INFO [67502cad] Finished in 8.617 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-my_app_name-production-root.sh 0.0%
+  INFO Uploading /tmp/git-ssh-my_app_name-production-root.sh 100.0%
+  INFO [ccb3e09e] Running /usr/bin/env chmod 700 /tmp/git-ssh-my_app_name-production-root.sh on localhost
+ DEBUG [ccb3e09e] Command: /usr/bin/env chmod 700 /tmp/git-ssh-my_app_name-production-root.sh
+  INFO [ccb3e09e] Finished in 0.054 seconds with exit status 0 (successful).
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-10 20:04:33 -0700 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [2669e181] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [2669e181] Command: /usr/bin/env mkdir -p /tmp
+  INFO [75fa2aca] Running /usr/bin/env mkdir -p /tmp as root@z9999.site.tsvx.net
+ DEBUG [75fa2aca] Command: /usr/bin/env mkdir -p /tmp
+  INFO [2669e181] Finished in 4.307 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-my_app_name-production-root.sh 0.0%
+  INFO Uploading /tmp/git-ssh-my_app_name-production-root.sh 100.0%
+  INFO [31f122e5] Running /usr/bin/env chmod 700 /tmp/git-ssh-my_app_name-production-root.sh on localhost
+ DEBUG [31f122e5] Command: /usr/bin/env chmod 700 /tmp/git-ssh-my_app_name-production-root.sh
+  INFO [31f122e5] Finished in 0.018 seconds with exit status 0 (successful).
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-10 20:05:29 -0700 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [35b35ed1] Running /usr/bin/env mkdir -p /tmp as root@z9999.site.tsvx.net
+ DEBUG [35b35ed1] Command: /usr/bin/env mkdir -p /tmp
+  INFO [a0dc3e9a] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [a0dc3e9a] Command: /usr/bin/env mkdir -p /tmp
+  INFO [a0dc3e9a] Finished in 3.111 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-my_app_name-production-root.sh 0.0%
+  INFO Uploading /tmp/git-ssh-my_app_name-production-root.sh 100.0%
+  INFO [890457fa] Running /usr/bin/env chmod 700 /tmp/git-ssh-my_app_name-production-root.sh on localhost
+ DEBUG [890457fa] Command: /usr/bin/env chmod 700 /tmp/git-ssh-my_app_name-production-root.sh
+  INFO [890457fa] Finished in 0.033 seconds with exit status 0 (successful).
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-10 20:06:39 -0700 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [7236db16] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [7236db16] Command: /usr/bin/env mkdir -p /tmp
+  INFO [b2b21e5d] Running /usr/bin/env mkdir -p /tmp as root@z9999.site.tsvx.net
+ DEBUG [b2b21e5d] Command: /usr/bin/env mkdir -p /tmp
+  INFO [7236db16] Finished in 7.208 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-my_app_name-production-root.sh 0.0%
+  INFO Uploading /tmp/git-ssh-my_app_name-production-root.sh 100.0%
+  INFO [bb273ab6] Running /usr/bin/env chmod 700 /tmp/git-ssh-my_app_name-production-root.sh on localhost
+ DEBUG [bb273ab6] Command: /usr/bin/env chmod 700 /tmp/git-ssh-my_app_name-production-root.sh
+  INFO [bb273ab6] Finished in 0.047 seconds with exit status 0 (successful).
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-10 20:10:25 -0700 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [d4793ee4] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [d4793ee4] Command: /usr/bin/env mkdir -p /tmp
+  INFO [bbff020f] Running /usr/bin/env mkdir -p /tmp as root@z9999.site.tsvx.net
+ DEBUG [bbff020f] Command: /usr/bin/env mkdir -p /tmp
+  INFO [d4793ee4] Finished in 3.674 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-my_app_name-production-root.sh 0.0%
+  INFO Uploading /tmp/git-ssh-my_app_name-production-root.sh 100.0%
+  INFO [4b17e444] Running /usr/bin/env chmod 700 /tmp/git-ssh-my_app_name-production-root.sh on localhost
+ DEBUG [4b17e444] Command: /usr/bin/env chmod 700 /tmp/git-ssh-my_app_name-production-root.sh
+  INFO [4b17e444] Finished in 0.017 seconds with exit status 0 (successful).
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-10 20:21:42 -0700 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [36c83cd1] Running /usr/bin/env mkdir -p /tmp as root@z9999.site.tsvx.net
+ DEBUG [36c83cd1] Command: /usr/bin/env mkdir -p /tmp
+  INFO [e7546fd3] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [e7546fd3] Command: /usr/bin/env mkdir -p /tmp
+  INFO [e7546fd3] Finished in 3.465 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-my_app_name-production-root.sh 0.0%
+  INFO Uploading /tmp/git-ssh-my_app_name-production-root.sh 100.0%
+  INFO [4e1eefa3] Running /usr/bin/env chmod 700 /tmp/git-ssh-my_app_name-production-root.sh on localhost
+ DEBUG [4e1eefa3] Command: /usr/bin/env chmod 700 /tmp/git-ssh-my_app_name-production-root.sh
+  INFO [4e1eefa3] Finished in 0.036 seconds with exit status 0 (successful).
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-10 20:26:58 -0700 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [2b2a9dec] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [2b2a9dec] Command: /usr/bin/env mkdir -p /tmp
+  INFO [cb242ff1] Running /usr/bin/env mkdir -p /tmp as root@z9999.site.tsvx.net
+ DEBUG [cb242ff1] Command: /usr/bin/env mkdir -p /tmp
+  INFO [2b2a9dec] Finished in 3.003 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-my_app_name-production-root.sh 0.0%
+  INFO Uploading /tmp/git-ssh-my_app_name-production-root.sh 100.0%
+  INFO [81fd3e06] Running /usr/bin/env chmod 700 /tmp/git-ssh-my_app_name-production-root.sh on localhost
+ DEBUG [81fd3e06] Command: /usr/bin/env chmod 700 /tmp/git-ssh-my_app_name-production-root.sh
+  INFO [81fd3e06] Finished in 0.042 seconds with exit status 0 (successful).
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-11 17:53:56 -0700 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [6e19437b] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [6e19437b] Command: /usr/bin/env mkdir -p /tmp
+  INFO [6e19437b] Finished in 4.638 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 0.0%
+  INFO Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 100.0%
+  INFO [ba08c951] Running /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh on localhost
+ DEBUG [ba08c951] Command: /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh
+  INFO [ba08c951] Finished in 0.035 seconds with exit status 0 (successful).
+  INFO [43d5428d] Running /usr/bin/env git ls-remote git@example.com:me/my_repo.git HEAD on localhost
+ DEBUG [43d5428d] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh" ; /usr/bin/env git ls-remote git@example.com:me/my_repo.git HEAD )
+ DEBUG [43d5428d] 	ssh: Could not resolve hostname example.com: Name or service not known
+ DEBUG [43d5428d] 	fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-11 18:09:38 -0700 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [58677880] Running /usr/bin/env mkdir -p /tmp as root@z9999.site.tsvx.net
+ DEBUG [58677880] Command: /usr/bin/env mkdir -p /tmp
+  INFO [801dda4b] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [801dda4b] Command: /usr/bin/env mkdir -p /tmp
+  INFO [801dda4b] Finished in 3.688 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 0.0%
+  INFO Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 100.0%
+  INFO [58d3588c] Running /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh on localhost
+ DEBUG [58d3588c] Command: /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh
+  INFO [58d3588c] Finished in 0.041 seconds with exit status 0 (successful).
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-11 18:10:54 -0700 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [76a25b13] Running /usr/bin/env mkdir -p /tmp as root@z9999.site.tsvx.net
+ DEBUG [76a25b13] Command: /usr/bin/env mkdir -p /tmp
+  INFO [cdaf639c] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [cdaf639c] Command: /usr/bin/env mkdir -p /tmp
+  INFO [cdaf639c] Finished in 4.184 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 0.0%
+  INFO Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 100.0%
+  INFO [d3e8d582] Running /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh on localhost
+ DEBUG [d3e8d582] Command: /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh
+  INFO [d3e8d582] Finished in 0.040 seconds with exit status 0 (successful).
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-11 18:13:40 -0700 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [40f09246] Running /usr/bin/env mkdir -p /tmp as root@z9999.site.tsvx.net
+ DEBUG [40f09246] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-11 18:29:08 -0700 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [0b6998ca] Running /usr/bin/env mkdir -p /tmp as root@z9999.site.tsvx.net
+ DEBUG [0b6998ca] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-11 18:29:43 -0700 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [64c769fb] Running /usr/bin/env mkdir -p /tmp as root@z9999.site.tsvx.net
+ DEBUG [64c769fb] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-11 18:36:40 -0700 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [216171a5] Running /usr/bin/env mkdir -p /tmp as root@z9999.site.tsvx.net
+ DEBUG [216171a5] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-11 18:37:03 -0700 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [5de22751] Running /usr/bin/env mkdir -p /tmp as root@z9999.site.tsvx.net
+ DEBUG [5de22751] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-11 18:47:02 -0700 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [b839c699] Running /usr/bin/env mkdir -p /tmp as root@z9999.site.tsvx.net
+ DEBUG [b839c699] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-11 18:51:07 -0700 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [9dec9abe] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [9dec9abe] Command: /usr/bin/env mkdir -p /tmp
+  INFO [9dec9abe] Finished in 4.012 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 0.0%
+  INFO Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 100.0%
+  INFO [9493e538] Running /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh on localhost
+ DEBUG [9493e538] Command: /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh
+  INFO [9493e538] Finished in 0.046 seconds with exit status 0 (successful).
+  INFO [1b3d5ee6] Running /usr/bin/env git ls-remote  HEAD on localhost
+ DEBUG [1b3d5ee6] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh" ; /usr/bin/env git ls-remote  HEAD )
+ DEBUG [1b3d5ee6] 	fatal: 'HEAD' does not appear to be a git repository
+ DEBUG [1b3d5ee6] 	fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-11 18:53:38 -0700 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [0582c0d2] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [0582c0d2] Command: /usr/bin/env mkdir -p /tmp
+  INFO [0582c0d2] Finished in 3.775 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 0.0%
+  INFO Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 100.0%
+  INFO [7229df5a] Running /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh on localhost
+ DEBUG [7229df5a] Command: /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh
+  INFO [7229df5a] Finished in 0.041 seconds with exit status 0 (successful).
+  INFO [89958bf2] Running /usr/bin/env git ls-remote  HEAD on localhost
+ DEBUG [89958bf2] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh" ; /usr/bin/env git ls-remote  HEAD )
+ DEBUG [89958bf2] 	fatal: 'HEAD' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-11 19:00:20 -0700 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [e9b70813] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [e9b70813] Command: /usr/bin/env mkdir -p /tmp
+  INFO [e9b70813] Finished in 3.398 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 0.0%
+  INFO Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 100.0%
+  INFO [ad1a8c09] Running /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh on localhost
+ DEBUG [ad1a8c09] Command: /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh
+  INFO [ad1a8c09] Finished in 0.033 seconds with exit status 0 (successful).
+  INFO [9b3708ca] Running /usr/bin/env git ls-remote  HEAD on localhost
+ DEBUG [9b3708ca] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh" ; /usr/bin/env git ls-remote  HEAD )
+ DEBUG [9b3708ca] 	fatal: 'HEAD' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-11 19:06:44 -0700 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [2a46ae79] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [2a46ae79] Command: /usr/bin/env mkdir -p /tmp
+  INFO [2a46ae79] Finished in 3.521 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 0.0%
+  INFO Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 100.0%
+  INFO [fd8e1ffc] Running /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh on localhost
+ DEBUG [fd8e1ffc] Command: /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh
+  INFO [fd8e1ffc] Finished in 0.022 seconds with exit status 0 (successful).
+  INFO [dff7d6fe] Running /usr/bin/env git ls-remote  HEAD on localhost
+ DEBUG [dff7d6fe] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh" ; /usr/bin/env git ls-remote  HEAD )
+ DEBUG [dff7d6fe] 	fatal: 'HEAD' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-11 19:08:11 -0700 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [a3206923] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [a3206923] Command: /usr/bin/env mkdir -p /tmp
+  INFO [a3206923] Finished in 2.976 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 0.0%
+  INFO Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 100.0%
+  INFO [899e22f5] Running /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh on localhost
+ DEBUG [899e22f5] Command: /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh
+  INFO [899e22f5] Finished in 0.034 seconds with exit status 0 (successful).
+  INFO [6930ab56] Running /usr/bin/env git ls-remote  HEAD on localhost
+ DEBUG [6930ab56] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh" ; /usr/bin/env git ls-remote  HEAD )
+ DEBUG [6930ab56] 	fatal: 'HEAD' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-11 19:20:40 -0700 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [7beb341c] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [7beb341c] Command: /usr/bin/env mkdir -p /tmp
+  INFO [7beb341c] Finished in 9.289 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 0.0%
+  INFO Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 100.0%
+  INFO [495c230b] Running /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh on localhost
+ DEBUG [495c230b] Command: /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh
+  INFO [495c230b] Finished in 0.033 seconds with exit status 0 (successful).
+  INFO [b0126e25] Running /usr/bin/env git ls-remote  HEAD on localhost
+ DEBUG [b0126e25] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh" ; /usr/bin/env git ls-remote  HEAD )
+ DEBUG [b0126e25] 	fatal: 'HEAD' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-12 05:59:29 -0700 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+  INFO [2163251a] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [2163251a] Command: /usr/bin/env mkdir -p /tmp
+  INFO [2163251a] Finished in 5.980 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 0.0%
+  INFO Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 100.0%
+  INFO [79323900] Running /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh on localhost
+ DEBUG [79323900] Command: /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh
+  INFO [79323900] Finished in 0.041 seconds with exit status 0 (successful).
+  INFO [36287d17] Running /usr/bin/env git ls-remote  HEAD on localhost
+ DEBUG [36287d17] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh" ; /usr/bin/env git ls-remote  HEAD )
+ DEBUG [36287d17] 	fatal: 'HEAD' does not appear to be a git repository
+ DEBUG [36287d17] 	fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-12 06:06:38 -0700 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+  INFO [82f97fa3] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [82f97fa3] Command: /usr/bin/env mkdir -p /tmp
+  INFO [82f97fa3] Finished in 6.491 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 0.0%
+  INFO Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 100.0%
+  INFO [0bf1e60f] Running /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh on localhost
+ DEBUG [0bf1e60f] Command: /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh
+  INFO [0bf1e60f] Finished in 0.017 seconds with exit status 0 (successful).
+  INFO [d7c62e78] Running /usr/bin/env git ls-remote  HEAD on localhost
+ DEBUG [d7c62e78] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh" ; /usr/bin/env git ls-remote  HEAD )
+ DEBUG [d7c62e78] 	fatal: 'HEAD' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-12 06:17:25 -0700 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+  INFO [dfc1ea97] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [dfc1ea97] Command: /usr/bin/env mkdir -p /tmp
+  INFO [dfc1ea97] Finished in 3.085 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 0.0%
+  INFO Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 100.0%
+  INFO [29816f91] Running /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh on localhost
+ DEBUG [29816f91] Command: /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh
+  INFO [29816f91] Finished in 0.037 seconds with exit status 0 (successful).
+  INFO [35945ac2] Running /usr/bin/env git ls-remote https://github.com/borkarsaloni/capistrano-demo.git HEAD on localhost
+ DEBUG [35945ac2] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh" ; /usr/bin/env git ls-remote https://github.com/borkarsaloni/capistrano-demo.git HEAD )
+  INFO [35945ac2] Finished in 0.637 seconds with exit status 0 (successful).
+  INFO [6441346c] Running /usr/bin/env mkdir -p /capistrano-project/shared /capistrano-project/releases on localhost
+ DEBUG [6441346c] Command: /usr/bin/env mkdir -p /capistrano-project/shared /capistrano-project/releases
+ DEBUG [6441346c] 	mkdir: cannot create directory ‘/capistrano-project/shared’: Permission denied
+mkdir: cannot create directory ‘/capistrano-project/releases’: Permission denied
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-12 06:22:30 -0700 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+  INFO [9697094b] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [9697094b] Command: /usr/bin/env mkdir -p /tmp
+  INFO [9697094b] Finished in 2.743 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 0.0%
+  INFO Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 100.0%
+  INFO [34ad1498] Running /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh on localhost
+ DEBUG [34ad1498] Command: /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh
+  INFO [34ad1498] Finished in 0.021 seconds with exit status 0 (successful).
+  INFO [938b52f0] Running /usr/bin/env git ls-remote https://github.com/borkarsaloni/capistrano-demo.git HEAD on localhost
+ DEBUG [938b52f0] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh" ; /usr/bin/env git ls-remote https://github.com/borkarsaloni/capistrano-demo.git HEAD )
+  INFO [938b52f0] Finished in 0.422 seconds with exit status 0 (successful).
+  INFO [b00a1b60] Running /usr/bin/env mkdir -p /capistrano-project/demo/shared /capistrano-project/demo/releases on localhost
+ DEBUG [b00a1b60] Command: /usr/bin/env mkdir -p /capistrano-project/demo/shared /capistrano-project/demo/releases
+ DEBUG [b00a1b60] 	mkdir: cannot create directory ‘/capistrano-project/demo’: Permission denied
+mkdir: cannot create directory ‘/capistrano-project/demo’: Permission denied
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-12 06:24:09 -0700 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+  INFO [556e48e6] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [556e48e6] Command: /usr/bin/env mkdir -p /tmp
+  INFO [556e48e6] Finished in 2.607 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 0.0%
+  INFO Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 100.0%
+  INFO [5a43382a] Running /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh on localhost
+ DEBUG [5a43382a] Command: /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh
+  INFO [5a43382a] Finished in 0.018 seconds with exit status 0 (successful).
+  INFO [37a14bde] Running /usr/bin/env git ls-remote https://github.com/borkarsaloni/capistrano-demo.git HEAD on localhost
+ DEBUG [37a14bde] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh" ; /usr/bin/env git ls-remote https://github.com/borkarsaloni/capistrano-demo.git HEAD )
+  INFO [37a14bde] Finished in 0.404 seconds with exit status 0 (successful).
+  INFO [c57b00b7] Running /usr/bin/env mkdir -p /capistrano-project/demo/shared /capistrano-project/demo/releases on localhost
+ DEBUG [c57b00b7] Command: /usr/bin/env mkdir -p /capistrano-project/demo/shared /capistrano-project/demo/releases
+ DEBUG [c57b00b7] 	mkdir: cannot create directory ‘/capistrano-project/demo/shared’: Permission denied
+mkdir: cannot create directory ‘/capistrano-project/demo/releases’: Permission denied
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-12 06:25:45 -0700 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+  INFO [9bbcadad] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [9bbcadad] Command: /usr/bin/env mkdir -p /tmp
+  INFO [9bbcadad] Finished in 2.315 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 0.0%
+  INFO Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 100.0%
+  INFO [86ae5d8f] Running /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh on localhost
+ DEBUG [86ae5d8f] Command: /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh
+  INFO [86ae5d8f] Finished in 0.022 seconds with exit status 0 (successful).
+  INFO [080b34fc] Running /usr/bin/env git ls-remote https://github.com/borkarsaloni/capistrano-demo.git HEAD on localhost
+ DEBUG [080b34fc] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh" ; /usr/bin/env git ls-remote https://github.com/borkarsaloni/capistrano-demo.git HEAD )
+  INFO [080b34fc] Finished in 0.403 seconds with exit status 0 (successful).
+  INFO [b528f399] Running /usr/bin/env mkdir -p /capistrano-project/demo/shared /capistrano-project/demo/releases on localhost
+ DEBUG [b528f399] Command: /usr/bin/env mkdir -p /capistrano-project/demo/shared /capistrano-project/demo/releases
+ DEBUG [b528f399] 	mkdir: cannot create directory ‘/capistrano-project/demo/shared’: Permission denied
+mkdir: cannot create directory ‘/capistrano-project/demo/releases’: Permission denied
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-12 06:27:22 -0700 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+  INFO [0bc714a3] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [0bc714a3] Command: /usr/bin/env mkdir -p /tmp
+  INFO [0bc714a3] Finished in 2.335 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 0.0%
+  INFO Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 100.0%
+  INFO [405f5029] Running /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh on localhost
+ DEBUG [405f5029] Command: /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh
+  INFO [405f5029] Finished in 0.016 seconds with exit status 0 (successful).
+  INFO [12e6dd85] Running /usr/bin/env git ls-remote https://github.com/borkarsaloni/capistrano-demo.git HEAD on localhost
+ DEBUG [12e6dd85] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh" ; /usr/bin/env git ls-remote https://github.com/borkarsaloni/capistrano-demo.git HEAD )
+  INFO [12e6dd85] Finished in 0.413 seconds with exit status 0 (successful).
+  INFO [c9af572b] Running /usr/bin/env mkdir -p /capistrano-project/demo/shared /capistrano-project/demo/releases on localhost
+ DEBUG [c9af572b] Command: /usr/bin/env mkdir -p /capistrano-project/demo/shared /capistrano-project/demo/releases
+ DEBUG [c9af572b] 	mkdir: cannot create directory ‘/capistrano-project/demo’: Permission denied
+mkdir: cannot create directory ‘/capistrano-project/demo’: Permission denied
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-12 06:36:13 -0700 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+  INFO [f7a82a15] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [f7a82a15] Command: /usr/bin/env mkdir -p /tmp
+  INFO [f7a82a15] Finished in 2.421 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 0.0%
+  INFO Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 100.0%
+  INFO [530b0244] Running /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh on localhost
+ DEBUG [530b0244] Command: /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh
+  INFO [530b0244] Finished in 0.033 seconds with exit status 0 (successful).
+  INFO [19d94397] Running /usr/bin/env git ls-remote https://github.com/borkarsaloni/capistrano-demo.git HEAD on localhost
+ DEBUG [19d94397] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh" ; /usr/bin/env git ls-remote https://github.com/borkarsaloni/capistrano-demo.git HEAD )
+  INFO [19d94397] Finished in 0.358 seconds with exit status 0 (successful).
+  INFO [2b320aaa] Running /usr/bin/env mkdir -p /capistrano-project/demo/shared /capistrano-project/demo/releases on localhost
+ DEBUG [2b320aaa] Command: /usr/bin/env mkdir -p /capistrano-project/demo/shared /capistrano-project/demo/releases
+ DEBUG [2b320aaa] 	mkdir: cannot create directory ‘/capistrano-project/demo’: Permission denied
+mkdir: cannot create directory ‘/capistrano-project/demo’: Permission denied
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-12 06:37:05 -0700 cap production deploy:setup
+  INFO ---------------------------------------------------------------------------
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-12 06:41:07 -0700 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+  INFO [2e591e93] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [2e591e93] Command: /usr/bin/env mkdir -p /tmp
+  INFO [2e591e93] Finished in 2.462 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 0.0%
+  INFO Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 100.0%
+  INFO [0ccea52a] Running /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh on localhost
+ DEBUG [0ccea52a] Command: /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh
+  INFO [0ccea52a] Finished in 0.035 seconds with exit status 0 (successful).
+  INFO [a5268f2e] Running /usr/bin/env git ls-remote https://github.com/borkarsaloni/capistrano-demo.git HEAD on localhost
+ DEBUG [a5268f2e] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh" ; /usr/bin/env git ls-remote https://github.com/borkarsaloni/capistrano-demo.git HEAD )
+  INFO [a5268f2e] Finished in 0.438 seconds with exit status 0 (successful).
+  INFO [750e280c] Running /usr/bin/env mkdir -p /capistrano-project/demo/shared /capistrano-project/demo/releases on localhost
+ DEBUG [750e280c] Command: /usr/bin/env mkdir -p /capistrano-project/demo/shared /capistrano-project/demo/releases
+ DEBUG [750e280c] 	mkdir: cannot create directory ‘/capistrano-project/demo’: Permission denied
+mkdir: cannot create directory ‘/capistrano-project/demo’: Permission denied
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-12 06:44:58 -0700 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+  INFO [a0201966] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [a0201966] Command: /usr/bin/env mkdir -p /tmp
+  INFO [a0201966] Finished in 2.441 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 0.0%
+  INFO Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 100.0%
+  INFO [a979cf89] Running /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh on localhost
+ DEBUG [a979cf89] Command: /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh
+  INFO [a979cf89] Finished in 0.034 seconds with exit status 0 (successful).
+  INFO [48daf785] Running /usr/bin/env git ls-remote https://github.com/borkarsaloni/capistrano-demo.git HEAD on localhost
+ DEBUG [48daf785] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh" ; /usr/bin/env git ls-remote https://github.com/borkarsaloni/capistrano-demo.git HEAD )
+  INFO [48daf785] Finished in 0.606 seconds with exit status 0 (successful).
+  INFO [d5b07546] Running /usr/bin/env mkdir -p /capistrano-project/demo/shared /capistrano-project/demo/releases on localhost
+ DEBUG [d5b07546] Command: /usr/bin/env mkdir -p /capistrano-project/demo/shared /capistrano-project/demo/releases
+ DEBUG [d5b07546] 	mkdir: cannot create directory ‘/capistrano-project/demo’: Permission denied
+mkdir: cannot create directory ‘/capistrano-project/demo’: Permission denied
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-12 06:46:59 -0700 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+  INFO [b3b8b418] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [b3b8b418] Command: /usr/bin/env mkdir -p /tmp
+  INFO [b3b8b418] Finished in 2.267 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 0.0%
+  INFO Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 100.0%
+  INFO [94c2f30e] Running /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh on localhost
+ DEBUG [94c2f30e] Command: /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh
+  INFO [94c2f30e] Finished in 0.019 seconds with exit status 0 (successful).
+  INFO [71eee571] Running /usr/bin/env git ls-remote https://github.com/borkarsaloni/capistrano-demo.git HEAD on localhost
+ DEBUG [71eee571] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh" ; /usr/bin/env git ls-remote https://github.com/borkarsaloni/capistrano-demo.git HEAD )
+  INFO [71eee571] Finished in 0.470 seconds with exit status 0 (successful).
+  INFO [e7a9f8ca] Running /usr/bin/env mkdir -p /capistrano-project/demo/shared /capistrano-project/demo/releases on localhost
+ DEBUG [e7a9f8ca] Command: /usr/bin/env mkdir -p /capistrano-project/demo/shared /capistrano-project/demo/releases
+ DEBUG [e7a9f8ca] 	mkdir: cannot create directory ‘/capistrano-project/demo’: Permission denied
+mkdir: cannot create directory ‘/capistrano-project/demo’: Permission denied
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-12 06:47:32 -0700 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+  INFO [8c949221] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [8c949221] Command: /usr/bin/env mkdir -p /tmp
+  INFO [8c949221] Finished in 2.138 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 0.0%
+  INFO Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 100.0%
+  INFO [4381bc1a] Running /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh on localhost
+ DEBUG [4381bc1a] Command: /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh
+  INFO [4381bc1a] Finished in 0.018 seconds with exit status 0 (successful).
+  INFO [7bba1c06] Running /usr/bin/env git ls-remote https://github.com/borkarsaloni/capistrano-demo.git HEAD on localhost
+ DEBUG [7bba1c06] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh" ; /usr/bin/env git ls-remote https://github.com/borkarsaloni/capistrano-demo.git HEAD )
+  INFO [7bba1c06] Finished in 0.419 seconds with exit status 0 (successful).
+  INFO [69c384f5] Running /usr/bin/env mkdir -p /capistrano-project/shared /capistrano-project/releases on localhost
+ DEBUG [69c384f5] Command: /usr/bin/env mkdir -p /capistrano-project/shared /capistrano-project/releases
+ DEBUG [69c384f5] 	mkdir: cannot create directory ‘/capistrano-project/shared’: Permission denied
+mkdir: cannot create directory ‘/capistrano-project/releases’: Permission denied
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-12 06:48:45 -0700 cap production deploy:setup
+  INFO ---------------------------------------------------------------------------
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-12 06:49:12 -0700 cap production deploy:setup
+  INFO ---------------------------------------------------------------------------
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-12 06:50:13 -0700 cap production deploy:setup
+  INFO ---------------------------------------------------------------------------
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-12 06:50:21 -0700 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+  INFO [049e9c79] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [049e9c79] Command: /usr/bin/env mkdir -p /tmp
+  INFO [049e9c79] Finished in 2.583 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 0.0%
+  INFO Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 100.0%
+  INFO [a91cf3fc] Running /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh on localhost
+ DEBUG [a91cf3fc] Command: /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh
+  INFO [a91cf3fc] Finished in 0.018 seconds with exit status 0 (successful).
+  INFO [e8d6c9c8] Running /usr/bin/env git ls-remote https://github.com/borkarsaloni/capistrano-demo.git HEAD on localhost
+ DEBUG [e8d6c9c8] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh" ; /usr/bin/env git ls-remote https://github.com/borkarsaloni/capistrano-demo.git HEAD )
+ DEBUG [e8d6c9c8] 	fatal: unable to access 'https://github.com/borkarsaloni/capistrano-demo.git/': Could not resolve host: github.com; Unknown error
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-12 06:51:24 -0700 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+  INFO [3cde6eba] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [3cde6eba] Command: /usr/bin/env mkdir -p /tmp
+  INFO [3cde6eba] Finished in 2.296 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 0.0%
+  INFO Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 100.0%
+  INFO [b48a4769] Running /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh on localhost
+ DEBUG [b48a4769] Command: /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh
+  INFO [b48a4769] Finished in 0.026 seconds with exit status 0 (successful).
+  INFO [35db3b63] Running /usr/bin/env git ls-remote https://github.com/borkarsaloni/capistrano-demo.git HEAD on localhost
+ DEBUG [35db3b63] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh" ; /usr/bin/env git ls-remote https://github.com/borkarsaloni/capistrano-demo.git HEAD )
+  INFO [35db3b63] Finished in 0.493 seconds with exit status 0 (successful).
+  INFO [c2af3f41] Running /usr/bin/env mkdir -p /capistrano-project/shared /capistrano-project/releases on localhost
+ DEBUG [c2af3f41] Command: /usr/bin/env mkdir -p /capistrano-project/shared /capistrano-project/releases
+  INFO [c2af3f41] Finished in 0.057 seconds with exit status 0 (successful).
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-12 06:51:37 -0700 cap production deploy:setup
+  INFO ---------------------------------------------------------------------------
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-12 06:51:42 -0700 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [fa02b69c] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [fa02b69c] Command: /usr/bin/env mkdir -p /tmp
+  INFO [fa02b69c] Finished in 2.505 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 0.0%
+  INFO Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 100.0%
+  INFO [0484c793] Running /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh on localhost
+ DEBUG [0484c793] Command: /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh
+  INFO [0484c793] Finished in 0.017 seconds with exit status 0 (successful).
+  INFO [fda36b59] Running /usr/bin/env git ls-remote https://github.com/borkarsaloni/capistrano-demo.git HEAD on localhost
+ DEBUG [fda36b59] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh" ; /usr/bin/env git ls-remote https://github.com/borkarsaloni/capistrano-demo.git HEAD )
+  INFO [fda36b59] Finished in 0.461 seconds with exit status 0 (successful).
+  INFO [4b979094] Running /usr/bin/env mkdir -p /capistrano-project/shared /capistrano-project/releases on localhost
+ DEBUG [4b979094] Command: /usr/bin/env mkdir -p /capistrano-project/shared /capistrano-project/releases
+  INFO [4b979094] Finished in 0.059 seconds with exit status 0 (successful).
+ DEBUG [4ecc5657] Running [ -f /capistrano-project/current/REVISION ] on localhost
+ DEBUG [4ecc5657] Command: [ -f /capistrano-project/current/REVISION ]
+ DEBUG [4ecc5657] Finished in 0.029 seconds with exit status 1 (failed).
+ DEBUG [f896f05b] Running [ -f /capistrano-project/repo/HEAD ] on localhost
+ DEBUG [f896f05b] Command: [ -f /capistrano-project/repo/HEAD ]
+ DEBUG [f896f05b] Finished in 0.015 seconds with exit status 1 (failed).
+ DEBUG [e0ca8f68] Running if test ! -d /capistrano-project; then echo "Directory does not exist '/capistrano-project'" 1>&2; false; fi on localhost
+ DEBUG [e0ca8f68] Command: if test ! -d /capistrano-project; then echo "Directory does not exist '/capistrano-project'" 1>&2; false; fi
+ DEBUG [e0ca8f68] Finished in 0.015 seconds with exit status 0 (successful).
+  INFO [a4d325bc] Running /usr/bin/env git clone --mirror https://github.com/borkarsaloni/capistrano-demo.git /capistrano-project/repo on localhost
+ DEBUG [a4d325bc] Command: cd /capistrano-project && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh" ; /usr/bin/env git clone --mirror https://github.com/borkarsaloni/capistrano-demo.git /capistrano-project/repo )
+ DEBUG [a4d325bc] 	Cloning into bare repository '/capistrano-project/repo'...
+ DEBUG [a4d325bc] 	warning: You appear to have cloned an empty repository.
+  INFO [a4d325bc] Finished in 0.440 seconds with exit status 0 (successful).
+ DEBUG [1cf599b9] Running if test ! -d /capistrano-project/repo; then echo "Directory does not exist '/capistrano-project/repo'" 1>&2; false; fi on localhost
+ DEBUG [1cf599b9] Command: if test ! -d /capistrano-project/repo; then echo "Directory does not exist '/capistrano-project/repo'" 1>&2; false; fi
+ DEBUG [1cf599b9] Finished in 0.022 seconds with exit status 0 (successful).
+  INFO [a692b93c] Running /usr/bin/env git remote set-url origin https://github.com/borkarsaloni/capistrano-demo.git on localhost
+ DEBUG [a692b93c] Command: cd /capistrano-project/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh" ; /usr/bin/env git remote set-url origin https://github.com/borkarsaloni/capistrano-demo.git )
+  INFO [a692b93c] Finished in 0.031 seconds with exit status 0 (successful).
+  INFO [9f934bad] Running /usr/bin/env git remote update --prune on localhost
+ DEBUG [9f934bad] Command: cd /capistrano-project/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh" ; /usr/bin/env git remote update --prune )
+ DEBUG [9f934bad] 	Fetching origin
+  INFO [9f934bad] Finished in 0.415 seconds with exit status 0 (successful).
+ DEBUG [22868d3f] Running if test ! -d /capistrano-project/repo; then echo "Directory does not exist '/capistrano-project/repo'" 1>&2; false; fi on localhost
+ DEBUG [22868d3f] Command: if test ! -d /capistrano-project/repo; then echo "Directory does not exist '/capistrano-project/repo'" 1>&2; false; fi
+ DEBUG [22868d3f] Finished in 0.047 seconds with exit status 0 (successful).
+  INFO [398c7f66] Running /usr/bin/env mkdir -p /capistrano-project/releases/20170412135145 on localhost
+ DEBUG [398c7f66] Command: cd /capistrano-project/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh" ; /usr/bin/env mkdir -p /capistrano-project/releases/20170412135145 )
+  INFO [398c7f66] Finished in 0.034 seconds with exit status 0 (successful).
+  INFO [f1728609] Running /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /capistrano-project/releases/20170412135145 on localhost
+ DEBUG [f1728609] Command: cd /capistrano-project/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh" ; /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /capistrano-project/releases/20170412135145 )
+ DEBUG [f1728609] 	fatal: Not a valid object name
+ DEBUG [f1728609] 	tar: This does not look like a tar archive
+tar: Exiting with failure status due to previous errors
+  INFO ---------------------------------------------------------------------------
+  INFO START 2017-04-12 07:03:34 -0700 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [91f9208a] Running /usr/bin/env mkdir -p /tmp on localhost
+ DEBUG [91f9208a] Command: /usr/bin/env mkdir -p /tmp
+  INFO [91f9208a] Finished in 4.658 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 0.0%
+  INFO Uploading /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh 100.0%
+  INFO [8694a00e] Running /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh on localhost
+ DEBUG [8694a00e] Command: /usr/bin/env chmod 700 /tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh
+  INFO [8694a00e] Finished in 0.149 seconds with exit status 0 (successful).
+  INFO [e27a9390] Running /usr/bin/env git ls-remote https://github.com/borkarsaloni/capistrano-demo.git HEAD on localhost
+ DEBUG [e27a9390] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh" ; /usr/bin/env git ls-remote https://github.com/borkarsaloni/capistrano-demo.git HEAD )
+  INFO [e27a9390] Finished in 1.176 seconds with exit status 0 (successful).
+  INFO [7f70d799] Running /usr/bin/env mkdir -p /capistrano-project/shared /capistrano-project/releases on localhost
+ DEBUG [7f70d799] Command: /usr/bin/env mkdir -p /capistrano-project/shared /capistrano-project/releases
+  INFO [7f70d799] Finished in 0.024 seconds with exit status 0 (successful).
+ DEBUG [db39bd2f] Running [ -f /capistrano-project/current/REVISION ] on localhost
+ DEBUG [db39bd2f] Command: [ -f /capistrano-project/current/REVISION ]
+ DEBUG [db39bd2f] Finished in 0.110 seconds with exit status 1 (failed).
+ DEBUG [ed502b3d] Running [ -f /capistrano-project/repo/HEAD ] on localhost
+ DEBUG [ed502b3d] Command: [ -f /capistrano-project/repo/HEAD ]
+ DEBUG [ed502b3d] Finished in 0.147 seconds with exit status 0 (successful).
+  INFO The repository mirror is at /capistrano-project/repo
+ DEBUG [faac6fd0] Running if test ! -d /capistrano-project/repo; then echo "Directory does not exist '/capistrano-project/repo'" 1>&2; false; fi on localhost
+ DEBUG [faac6fd0] Command: if test ! -d /capistrano-project/repo; then echo "Directory does not exist '/capistrano-project/repo'" 1>&2; false; fi
+ DEBUG [faac6fd0] Finished in 0.142 seconds with exit status 0 (successful).
+  INFO [b0a73e33] Running /usr/bin/env git remote set-url origin https://github.com/borkarsaloni/capistrano-demo.git on localhost
+ DEBUG [b0a73e33] Command: cd /capistrano-project/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh" ; /usr/bin/env git remote set-url origin https://github.com/borkarsaloni/capistrano-demo.git )
+  INFO [b0a73e33] Finished in 0.255 seconds with exit status 0 (successful).
+  INFO [5b51ee5b] Running /usr/bin/env git remote update --prune on localhost
+ DEBUG [5b51ee5b] Command: cd /capistrano-project/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh" ; /usr/bin/env git remote update --prune )
+ DEBUG [5b51ee5b] 	Fetching origin
+  INFO [5b51ee5b] Finished in 0.761 seconds with exit status 0 (successful).
+ DEBUG [fcf6f9a2] Running if test ! -d /capistrano-project/repo; then echo "Directory does not exist '/capistrano-project/repo'" 1>&2; false; fi on localhost
+ DEBUG [fcf6f9a2] Command: if test ! -d /capistrano-project/repo; then echo "Directory does not exist '/capistrano-project/repo'" 1>&2; false; fi
+ DEBUG [fcf6f9a2] Finished in 0.133 seconds with exit status 0 (successful).
+  INFO [4774ef5d] Running /usr/bin/env mkdir -p /capistrano-project/releases/20170412140340 on localhost
+ DEBUG [4774ef5d] Command: cd /capistrano-project/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh" ; /usr/bin/env mkdir -p /capistrano-project/releases/20170412140340 )
+  INFO [4774ef5d] Finished in 0.199 seconds with exit status 0 (successful).
+  INFO [f2359c17] Running /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /capistrano-project/releases/20170412140340 on localhost
+ DEBUG [f2359c17] Command: cd /capistrano-project/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Saloni-Test-capistrano-demo-production-root.sh" ; /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /capistrano-project/releases/20170412140340 )
+ DEBUG [f2359c17] 	fatal: Not a valid object name
+ DEBUG [f2359c17] 	tar: This does not look like a tar archive
+tar: Exiting with failure status due to previous errors
